@@ -31,10 +31,9 @@
 }
 
 .icon {
-  height: 600px;
-  width: 50px;
   display: flex;
   justify-content: center;
+  width: 10%;
 }
 
 .right-btn {
